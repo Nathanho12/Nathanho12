@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathanho12
 - 👀 I’m interested in ... sports
-- 🌱 I’m currently learning ... economics and data science
+- 🌱 I’m currently learning ... economics/accounting and data science
 - 💞️ I’m looking to collaborate on ... everything
 - 📫 How to reach me ... nho@ucsb.edu
 
